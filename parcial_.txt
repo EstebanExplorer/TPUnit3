@@ -1,0 +1,21 @@
+Ejercicio de facturación 1
+    1) Se cambia el nombre de la clase a Facturaciom1 a Facturacion, para que sea más claro y descriptivo.
+    2) Se creo un array list para guardar los records, haciendo el codigo más eficiente y escalable
+    3) Se cambia el tipo de dato para la fecha de  String a LocalDate, en la lineas 11 y 12, para mayor claridad y fácil manipulación.
+    4) Se crea el nuevo método calcularTotalFactura para sumar el valor de los productos comprados
+    5) Se crea método imprimirFactura para la salida de los datos por consola
+    6) Se generan pruebas unitarias
+    7) Se incorpora la librería slf4j para realizar logging
+
+Ejercicio de ConvertirDistanciaMillas 5
+    1) Se agrega formato al codígo
+    2) se le da formato came case a distanciakilometros
+    3) se quito doble espacio en blanco aplicando buenas prácticas de formateo
+    4) Se crea el nuevo metodo obtenerDistanciaEnKilometros,
+    5) nuevo metodo convertirAKilometrosAMillas
+    6) nuevo metodo imprimirDistanciaEnMillas
+    7) Se generan pruebas unitarias
+    8) Se incorpora la librería slf4j para realizar logging
+    9) se agrega la librería fmt-maven-plugin para dar formato al codigo
+
+Autor: Edwin esteban Henao Velásquez
